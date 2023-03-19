@@ -4,6 +4,6 @@
 
 Hey there 👋 I'm Sam. I'm a developer creating delightful software. Creator of tools like [Exhibitor](https://github.com/samhuk/exhibitor), [ts-pg-orm](https://github.com/samhuk/ts-pg-orm), simple-pg-client, data-query, stealthy-scraper, and various others.
 
-I do this in my spare time. If you found something I do delightful and would like to support my work, feel free to sponsor me or [buy me a cup of coffee ☕](https://www.buymeacoffee.com/samhuk)
+I do this in my spare time. If you found something I do delightful and would like to support my work and/or servers such as https://demo.exhibitor.dev, feel free to sponsor me or [buy me a cup of coffee ☕](https://www.buymeacoffee.com/samhuk)
 
-For links to my accounts on online platforms like Twitter and Substack, head on over to [my Linktree](https://linktr.ee/samhuk).
+For links to me online, head on over to [my Linktree](https://linktr.ee/samhuk).
