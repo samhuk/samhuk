@@ -11,9 +11,11 @@ I mostly use Typescript, React, Redux, NodeJS, Python, and Go, with a bit of C# 
 
 Creator of [Exhibitor](https://github.com/samhuk/exhibitor), [GoodFlow](https://github.com/samhuk/good-flow), [ts-pg-orm](https://github.com/samhuk/ts-pg-orm), simple-pg-client, data-query, and stealthy-scraper.
 
+I could talk for hours about developer experience and productivity 👨‍💻
+
 ### Find me around the web
 
-* My blog about software, tech, and science on [Substack](https://samhuk.substack.com) ✍️
+* My blog on [Substack](https://samhuk.substack.com) ✍️
 * My impromptu updates on [Twitter](https://twitter.com/thesamhuk) 🗩
 * The rest of my existence on [Linktree](https://linktr.ee/samhuk) 🌳
 
