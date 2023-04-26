@@ -21,4 +21,4 @@ I could talk for hours about developer experience and productivity 👨‍💻
 
 ---
 
-To support my work and/or servers (such as https://demo.exhibitor.dev), feel free to [sponsor me on GitHub](https://github.com/sponsors/samhuk) or [buy me a cup of coffee ☕](https://www.buymeacoffee.com/samhuk)
+To support my open-source work and/or servers (such as https://demo.exhibitor.dev), feel free to [sponsor me on GitHub](https://github.com/sponsors/samhuk) or [buy me a cup of coffee ☕](https://www.buymeacoffee.com/samhuk)
