@@ -9,7 +9,7 @@
 
 I mostly use Typescript, React, Redux, NodeJS, Python, and Go, with a bit of C# .NET.
 
-Creator of [Exhibitor](https://github.com/samhuk/exhibitor), [GoodFlow](https://github.com/samhuk/good-flow), [ts-pg-orm](https://github.com/samhuk/ts-pg-orm), simple-pg-client, data-query, and stealthy-scraper.
+Creator of [Verba](https://github.com/samhuk/verba), [Exhibitor](https://github.com/samhuk/exhibitor), [GoodFlow](https://github.com/samhuk/good-flow), [ts-pg-orm](https://github.com/samhuk/ts-pg-orm), and a few others.
 
 I could talk for hours about developer experience and productivity 👨‍💻
 
