@@ -15,9 +15,9 @@ I could talk for hours about developer experience and productivity 👨‍💻
 
 ### Find me around the web
 
-* My blog on [Substack](https://samhuk.substack.com) ✍️
-* My impromptu updates on [Twitter](https://twitter.com/thesamhuk) 🗩
-* The rest of my existence on [Linktree](https://linktr.ee/samhuk) 🌳
+* Impromptu updates - [Twitter](https://twitter.com/thesamhuk) 🗩
+* Blog (not too often updated) - [Substack](https://samhuk.substack.com) ✍️
+* All links - [Linktree](https://linktr.ee/samhuk) 🌳
 
 ---
 
