@@ -7,11 +7,11 @@
   <img src="https://komarev.com/ghpvc/?username=samhuk&style=flat" />
 </div>
 
-I work on creating delightful and easy-to-use software for the web. I mostly work with Typescript, React, Redux, NodeJS, Python, and Go, with a bit of C# .NET.
+I work on creating delightful and easy-to-use software for the web. I mostly work with Typescript, React, Redux, NodeJS, Python, and Go.
 
 Some of my highlights: [Verba](https://github.com/samhuk/verba), [Sock State](https://github.com/samhuk/sock-state), [Exhibitor](https://github.com/samhuk/exhibitor), [GoodFlow](https://github.com/samhuk/good-flow), [ts-pg-orm](https://github.com/samhuk/ts-pg-orm), and a few others.
 
-I could talk for hours about developer experience and productivity 👨‍💻
+I could talk for hours about developer experience and expressive software patterns 👨‍💻
 
 ### Find me around the web
 
