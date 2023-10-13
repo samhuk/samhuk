@@ -13,7 +13,7 @@ Some of my highlights: [Verba](https://github.com/samhuk/verba), [Sock State](ht
 
 I could talk for hours about developer experience and expressive software patterns 👨‍💻
 
-### Find me around the web
+### Find me around the web 🌍
 
 * Impromptu updates - [Twitter](https://twitter.com/thesamhuk) 🗩
 * Blog (not too often updated) - [Substack](https://samhuk.substack.com) ✍️
